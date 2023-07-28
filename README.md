@@ -28,3 +28,5 @@ Con el curso de Git y Github de Platzi, estaré preparado para dar un salto cual
 El curso lo puedes encontrar aquíL: https://platzi.com/cursos/git-github/
 
 Creado por increible Platzi Team
+
+Incluye ejemplos linux, windowa mac
