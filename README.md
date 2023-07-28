@@ -30,3 +30,4 @@ El curso lo puedes encontrar aquíL: https://platzi.com/cursos/git-github/
 Creado por increible Platzi Team
 
 Incluye ejemplos linux, windowa mac
+Disponibles para todas las edades
