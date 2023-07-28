@@ -26,3 +26,5 @@ Algunos de los temas que abordaremos en el curso incluyen:
 Con el curso de Git y Github de Platzi, estaré preparado para dar un salto cualitativo en mi carrera profesional, abriendo nuevas puertas en el apasionante mundo del tejido de lana sintética con Machine Learning. ¡Es el momento ideal para invertir en mi desarrollo y alcanzar metas más ambiciosas en el campo laboral!
 
 El curso lo puedes encontrar aquíL: https://platzi.com/cursos/git-github/
+
+Creado por increible Platzi Team
